@@ -73,7 +73,7 @@ ZSH_THEME="risto-ssh"
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
 
-plugins=(alias-finder git docker docker-compose sudo zsh-autosuggestions gcloud zsh-syntax-highlighting)
+plugins=(alias-finder git docker docker-compose sudo zsh-autosuggestions zsh-syntax-highlighting)
 ZSH_ALIAS_FINDER_AUTOMATIC=true
 
 # User configuration
